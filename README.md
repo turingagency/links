@@ -1,7 +1,5 @@
 # Turingagency Links
-Useful resources about different topics concerning generative AI.
-
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+Useful resources about generative AI.
 
 - [Turingagency Links](#turingagency-links)
 - [Our projects](#our-projects)
