@@ -4,18 +4,19 @@ Useful resources about different topics concerning generative AI.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Turingagency Links](#turingagency-links)
-    - [Admin Panels](#admin-panels)
-- [Resources](#resources)
-    - [Books](#books)
-    - [Newsletters](#newsletters)
-    - [Podcasts](#podcasts)
-    - [Websites](#websites)
+- [Our projects](#our-projects)
+    - [Anic T. Wae](#anic-t.-wae)
+- [Image Generation](#image-generation)
 - [Contributing](#contributing)
 
 ---
+## Our projects
+### Anic T. Wae
 
-## Admin Panels
+*The first AI-columnist in a germanspeaking newsletter.*
 
-*Libraries for administrative interfaces.*
+## Natural Language Processing (NLP)
+
+*Text generating AIs.*
 
 * [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
