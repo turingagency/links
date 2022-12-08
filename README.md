@@ -6,7 +6,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Turingagency Links](#turingagency-links)
 - [Our projects](#our-projects)
     - [Anic T. Wae](#anic-t-wae)
-- [Image Generation](#image-generation)
+- [Natural Language Processing](#natural-language-processing-nlp)
 - [Contributing](#contributing)
 
 ---
@@ -17,6 +17,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Natural Language Processing (NLP)
 
-*Text generating AIs.*
+*AIs generating text*
 
 * [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
