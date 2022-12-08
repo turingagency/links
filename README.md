@@ -5,7 +5,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Turingagency Links](#turingagency-links)
 - [Our projects](#our-projects)
-    - [Anic T. Wae](#anic-t.-wae)
+    - [Anic T. Wae](#anic-t-wae)
 - [Image Generation](#image-generation)
 - [Contributing](#contributing)
 
