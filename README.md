@@ -36,3 +36,9 @@ Useful resources about generative AI.
 # Dall-E, Stable Diffusion, Midnight Journey etc.
 
 *AIs generating images*
+
+## Contributing
+
+Just make a PR-Request and add a link in the format: 
+`* [Link title](http://link.ch/…) - Description`
+See also: [How to format Text in Markdown](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
