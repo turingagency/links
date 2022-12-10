@@ -32,6 +32,7 @@ Useful resources about generative AI.
 ### Learning Resources
 
 * [NLP demystified](http://nlpdemystified.org) - Explains in depth how NLP works
+* [Learn prompting](https://learnprompting.org/) - Course on Prompt Engineering.
 
 # Dall-E, Stable Diffusion, Midnight Journey etc.
 
